@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="tanggalView">Today, April 4</string>
+    <string name="derajatView1">21</string>
+    <string name="derajatView2">8</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
